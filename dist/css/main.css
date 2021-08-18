@@ -32,7 +32,8 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: 1rem; }
+  margin-top: 1rem;
+  z-index: 2; }
 
 .attribution a {
   color: #3e52a3; }
