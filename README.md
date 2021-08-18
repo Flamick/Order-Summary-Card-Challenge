@@ -1,4 +1,4 @@
-This is amy solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+This is my solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 ![](images/screenshot.jpg)
 ![](images/screenshot_mobile.jpg)
